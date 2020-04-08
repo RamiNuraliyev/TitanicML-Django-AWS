@@ -1,0 +1,4 @@
+
+clicked = () =>{
+  alert("Clicked");
+}
